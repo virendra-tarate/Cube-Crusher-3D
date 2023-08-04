@@ -16,7 +16,7 @@ Cube Crusher 3D is an exciting and addictive Android game where your objective i
 
 To play Cube Crusher 3D on your Android device, follow these steps:
 
-1. Download the APK file from the [Releases](app/release/cube_crusher_3d_var1.apk) section.
+1. Download the APK file from the [Releases](app/release/) section.
 2. Enable installation from unknown sources in your device settings.
 3. Install the APK file on your device.
 4. Open the game, and you're ready to start crushing cubes!
